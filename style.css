@@ -1,0 +1,15 @@
+body {
+    padding: 100px;
+    background-color: dodgerblue;
+}
+.container {
+    max-width: 600px;
+    margin:0 auto;
+    padding: 50px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 7px 29px;
+    background-color: white;
+}
+
+.form-group {
+    margin-bottom: 30px;
+}
